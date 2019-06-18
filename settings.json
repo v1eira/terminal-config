@@ -1,0 +1,26 @@
+{
+    "workbench.colorTheme": "Dracula",
+    
+    "editor.fontSize": 14,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.renderLineHighlight": "gutter",
+    "eslint.autoFixOnSave": true,
+    "terminal.integrated.fontSize": 14,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "prettier.eslintIntegration": true,
+    
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "vscode-icons",
+    "python.pythonPath": "/usr/bin/python3"
+}
