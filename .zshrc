@@ -107,6 +107,10 @@ alias xampp="sudo /opt/lampp/lampp start"
 alias lampp="sudo /opt/lampp/lampp stop"
 alias astah="java -jar /home/ewerson/astah-community/astah-community.jar"
 
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
 SPACESHIP_PROMPT_ORDER=(
     user
     dir
@@ -121,7 +125,7 @@ SPACESHIP_PROMPT_ORDER=(
 )
 
 SPACESHIP_PROMPT_ADD_NEWLINE=false
-SPACESHIP_CHAR_SYMBOL="❱"
+SPACESHIP_CHAR_SYMBOL="🎃"
 SPACESHIP_CHAR_SUFFIX=" "
 
 ### Added by Zplugin's installer
