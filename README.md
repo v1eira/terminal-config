@@ -21,6 +21,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zplugin/master/doc
 # VS Code
 
 ### Extensions
+- Bracket Pair Colorizer (Coenraads)
 - Color Highlight (Sergii Naumov)
 - Dracula Official (Dracula Theme)
 - ESLint (Dirk Baeumer)
